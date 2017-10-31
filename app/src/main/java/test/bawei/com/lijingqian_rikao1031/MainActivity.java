@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(new Intent(MainActivity.this,shopp_demo.class));
                     }
 
+                    //哈哈哈
                     @Override
                     public void onFailed(Call call, IOException e) {
 
